@@ -6,14 +6,21 @@
 
 </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python, ML, DL
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### :computer: Studying
+	+ Python
+	+ Machine Learning
+	+ GCP
+	+ Statistics
+	
+### :pencil2: Majored in
+	+ Turkish
+	+ Economics
+
+### :star2: Interested in
+	+ Data Analysis
+	+ Coding
+	+ :musical_note:
+
 
 <div align=center>
 	
