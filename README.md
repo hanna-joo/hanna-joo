@@ -8,7 +8,6 @@
 + Python
 + Machine Learning
 + Statistics
-+ GCP
 ### :pencil2: Majored in
 + Turkish
 + Economics
