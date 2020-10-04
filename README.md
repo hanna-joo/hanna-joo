@@ -13,7 +13,6 @@
 + Economics
 ### :star2: Interested in
 + Data Analysis
-+ Coding
 + :musical_note:
 
 <div align=center>
