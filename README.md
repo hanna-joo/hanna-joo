@@ -7,19 +7,19 @@
 </div>
 
 ### :computer: Studying
-	+ Python
-	+ Machine Learning
-	+ GCP
-	+ Statistics
-	
++ Python
++ Machine Learning
++ Statistics
++ GCP
+
 ### :pencil2: Majored in
-	+ Turkish
-	+ Economics
++ Turkish
++ Economics
 
 ### :star2: Interested in
-	+ Data Analysis
-	+ Coding
-	+ :musical_note:
++ Data Analysis
++ Coding
++ :musical_note:
 
 
 <div align=center>
