@@ -1,5 +1,5 @@
 ### :computer: Studying
-+ Python 
++ Python :smile: 
 + Machine Learning
 + Statistics
 ### :pencil2: Majored in
