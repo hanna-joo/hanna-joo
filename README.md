@@ -1,5 +1,5 @@
 ### :computer: Studying
-+ Python 
++ Python :Smile:
 + Data Analysis
 + Machine Learning
 + Statistics
