@@ -1,6 +1,6 @@
 ### :computer: Studying
 + Python
-+ Data Analysis
++ Data Analysis based on python
 + Machine Learning
 + Statistics
 ### :pencil2: Majored in
