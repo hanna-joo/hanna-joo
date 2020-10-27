@@ -1,5 +1,4 @@
 ### :computer: Studying
-+ Python
 + Data Analysis based on python
 + Machine Learning
 + Statistics
