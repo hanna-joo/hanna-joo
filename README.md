@@ -1,5 +1,5 @@
-### :computer: Studying
-+ Data Analysis based on Python
+### :computer: Studying Data Analysis
++ ETL based on Python
 + Machine Learning
 + Statistics
 ### :pencil2: Majored in
