@@ -6,6 +6,7 @@
 + Turkish
 + Economics
 ### :star2: Interested in
++ Marketing
 + Data Analysis
 + :musical_note:
 
