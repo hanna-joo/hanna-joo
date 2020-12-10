@@ -2,7 +2,7 @@
 + ETL based on Python
 + Machine Learning
 + Statistics
-### :pencil2: Majored in
+### :pencil: Majored in
 + Turkish
 + Economics
 ### :star2: Interested in
