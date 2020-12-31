@@ -1,4 +1,9 @@
-### HAPPY NEW YEAR :heart:
+<div align=center>
+
+# HAPPY NEW YEAR :heart:
+
+</div>
+
 ### :computer: Studying Data Analysis
 + ETL based on Python
 + Machine Learning
