@@ -1,6 +1,6 @@
 <div align=center>
 
-# HAPPY NEW YEAR :heart:
+# HAPPY NEW YEAR :star:
 
 </div>
 
