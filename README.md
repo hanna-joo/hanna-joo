@@ -5,7 +5,7 @@
 </div>
 
 ### :computer: Studying Data Analysis
-+ ETL based on Python, R
++ ETL based on Python
 + Machine Learning
 + Statistics
 ### :pencil: Majored in
