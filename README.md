@@ -8,7 +8,7 @@
 + ETL based on Python
 + Machine Learning
 + Statistics
-+ Visualization
++ Visualization :chart:
 ### :pencil: Majored in
 + Turkish
 + Economics
