@@ -12,7 +12,7 @@
 ### :pencil: Majored in
 + Turkish
 + Economics
-### :heart2: Interested in
+### :heart: Interested in
 + Data Science
 + Marketing
 + :musical_note:
