@@ -6,8 +6,8 @@
 
 ### :computer: Studying Data Analysis
 + ETL based on Python
-+ Machine Learning :ai:
-+ Statistics :numbers:
++ Machine Learning
++ Statistics :number:
 + Visualization :chart:
 ### :pencil: Majored in
 + Turkish
