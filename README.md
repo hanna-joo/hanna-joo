@@ -7,12 +7,12 @@
 ### :computer: Studying Data Analysis
 + ETL based on Python
 + Machine Learning
-+ Statistics :number:
++ Statistics
 + Visualization :chart:
 ### :pencil: Majored in
 + Turkish
 + Economics
-### :heart: Interested in
+### :heart2: Interested in
 + Data Science
 + Marketing
 + :musical_note:
