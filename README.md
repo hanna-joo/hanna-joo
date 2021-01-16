@@ -4,7 +4,7 @@
 
 </div>
 
-### :computer: Studying Data Analysis
+### :computer: Studying Data Science
 + ETL based on Python
 + Machine Learning
 + Statistics
