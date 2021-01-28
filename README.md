@@ -1,9 +1,3 @@
-<div align=center>
-
-# :star: HAPPY NEW YEAR :star:
-
-</div>
-
 ### :computer: Studying Data Science
 + ETL based on Python
 + Machine Learning
