@@ -1,5 +1,5 @@
 ### :computer: Studying Data Science
-+ ETL based on Python, R
++ ETL based on Python
 + Machine Learning
 + Statistics
 + Visualization :chart:
