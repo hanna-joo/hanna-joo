@@ -1,4 +1,3 @@
-## Coming Soon
 ### :computer: Studying Data Science
 + ETL based on Python
 + Machine Learning
