@@ -1,4 +1,4 @@
-### :computer: Studying Data Science
+### :computer: Studying Data Analysis
 + ETL based on Python
 + Machine Learning
 + Statistics
