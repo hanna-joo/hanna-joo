@@ -7,7 +7,7 @@
 + Turkish
 + Economics
 ### :heart: Interested in
-+ Data Science
++ Data Analysis
 + Marketing
 + :musical_note:
 
