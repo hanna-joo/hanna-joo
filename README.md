@@ -3,6 +3,7 @@
 + Machine Learning
 + Statistics
 + Visualization :chart:
++ Smart Factory System
 ### :pencil: Majored in
 + Turkish
 + Economics
