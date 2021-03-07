@@ -4,7 +4,6 @@
 + Statistics
 + Visualization :chart:
 ### :pencil: Majored in
-+ Turkish
 + Economics
 ### :heart: Interested in
 + Data Analysis
