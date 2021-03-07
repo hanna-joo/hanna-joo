@@ -1,9 +1,8 @@
 ### :computer: Studying Data Analysis
-+ ETL based on Python,R
++ ETL based on Python
 + Machine Learning
 + Statistics
 + Visualization :chart:
-+ Smart Factory System
 ### :pencil: Majored in
 + Turkish
 + Economics
