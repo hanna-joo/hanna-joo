@@ -8,7 +8,6 @@
 + Economics
 ### :heart: Interested in
 + Data Analysis
-+ Marketing
 + :musical_note:
 
 
