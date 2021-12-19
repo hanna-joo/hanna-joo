@@ -5,7 +5,7 @@
 
 ### Tech Stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/.net-3766AB?style=plastic&logo=#512BD4&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/.NET-#9A2EFE?style=plastic&logo=#512BD4&logoColor=white"/></a>
 ### :pencil: Majored in
 + Turkish
 + Economics
