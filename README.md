@@ -4,7 +4,7 @@
 + Statistic
 
 ### Tech Stack
-<img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/></a>
 
 ### :pencil: Majored in
 + Turkish
