@@ -1,7 +1,7 @@
 ### :computer: Studying Data Analysis
 + ETL based on Python
 + Machine Learning
-+ Statistics
++ Statistic
 ### :pencil: Majored in
 + Turkish
 + Economics
