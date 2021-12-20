@@ -23,11 +23,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
 </div>
 
-<div align=center>
-	
-![trophy](https://github-profile-trophy.vercel.app/?username=hanna-joo)
-
-</div>
 
 <div align=center>
 	
