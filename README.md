@@ -4,6 +4,7 @@
 + Statistic
 
 ### Tech Stack
+<div align=center>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=jupyter&logoColor=white"/></a>
 
@@ -11,7 +12,7 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
-
+</div>
 ### :pencil: Majored in
 + Turkish
 + Economics
@@ -20,8 +21,9 @@
 + Data Analysis
 + :musical_note:
 
-
+<div align=center>
 ![trophy](https://github-profile-trophy.vercel.app/?username=hanna-joo)
+</div>
 
 <div align=center>
 	
