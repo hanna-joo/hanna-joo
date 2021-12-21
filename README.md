@@ -12,7 +12,7 @@
 + :musical_note:
 
 	
-### 🧑‍💻 Tech Stack
+### 🧑‍💻 Tech Stacks
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/></a>
