@@ -1,5 +1,3 @@
-<div align=center>
-
 ### :computer: Studying Data Analysis
 + ETL based on Python
 + Machine Learning
@@ -20,8 +18,6 @@
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
-
-</div>
 
 
 
