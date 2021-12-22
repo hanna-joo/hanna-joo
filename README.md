@@ -1,5 +1,5 @@
 ### :computer: Studying Data Analysis
-+ ETL based on Python
++ ETL
 + Machine Learning
 + Statistics
 
@@ -9,7 +9,8 @@
 
 ### :heart: Interested in
 + Data Analysis
-+ :musical_note:
++ :musical_note: :musical_note: :musical_note:
+
 
 	
 ### 🧑‍💻 Tech Stacks
