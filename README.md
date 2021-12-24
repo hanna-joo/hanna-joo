@@ -8,7 +8,7 @@
 + Economics
 
 ### :heart: Interested in
-+ Data Analysis
++ Traveling
 + :musical_note: :musical_note: :musical_note:
 
 
