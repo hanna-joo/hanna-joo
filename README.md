@@ -1,5 +1,5 @@
 ### :computer: Studying Data Analysis
-+ ETL
++ ETL based on Python
 + Machine Learning
 + Statistics
 
@@ -9,7 +9,7 @@
 
 ### :heart: Interested in
 + Traveling
-+ :musical_note: :musical_note: :musical_note:
++ :musical_note: :musical_note:
 
 
 	
