@@ -9,7 +9,7 @@
 
 ### :heart: Interested in
 + Traveling
-+ :musical_note:
++ :musical_note: :musical_note:
 
 
 	
