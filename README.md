@@ -1,5 +1,5 @@
 ### :computer: Studying Data Analysis
-+ ETL (Based on Python)
++ ETL Based on Python
 + Machine Learning
 + Statistics
 
