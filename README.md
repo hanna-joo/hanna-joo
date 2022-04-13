@@ -1,6 +1,6 @@
 ### :computer: Studying Data Analysis
 + ETL (Python)
-+ Machine Learning / Deep Learning
++ Machine Learning
 + Statistics
 
 ### :pencil: Majored in
