@@ -1,7 +1,11 @@
-### :computer: Studying Data Analysis
-+ ETL
-+ Machine Learning with Kaggle
-+ Statistics
+### :computer: Studying Data Analysis & Engineering
++ Data Analysis
+	+ Feature Engineering
+	+ Visualization
+	+ Machine Learning with Kaggle
+	+ Statistics
++ Data Engineering
+	+ ETL
 
 ### :pencil: Majored in
 + Turkish
