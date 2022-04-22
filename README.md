@@ -1,7 +1,7 @@
 ### :computer: Studying Data Analysis & Engineering
 + Data Analysis
 	+ Feature Engineering
-	+ Visualization
+	+ Data Visualization
 	+ Machine Learning with Kaggle
 	+ Statistics
 + Data Engineering
