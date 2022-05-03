@@ -2,7 +2,7 @@
 + Data Analysis
 	+ Feature Engineering
 	+ Data Visualization
-	+ Machine Learning with Kaggle
+	+ Machine Learning (Kaggle)
 	+ Statistics
 + Data Engineering
 	+ ETL
