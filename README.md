@@ -40,9 +40,7 @@
   
 - Database
   - <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
+  
+    
 
-
-
-<div align=center>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hanna-joo&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=buefy)
