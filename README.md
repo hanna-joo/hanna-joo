@@ -22,14 +22,6 @@
 - Language
   - <img src="https://img.shields.io/badge/Python-3766AB.svg?style=flat&logo=Python&logoColor=white"/></a><img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/></a><img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6?&style=flat&logo=CSS3&logoColor=white"/></a>
   
-  - ```markdown
-    <img alt="Python" src ="https://img.shields.io/badge/기술명(배지 텍스트)-원하는색상코드(배지 배경색).svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
-    
-    <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-    
-    [simpleicons](https://simpleicons.org/)
-    ```
-  
   - javascript
   
 - Tool
