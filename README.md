@@ -1,11 +1,7 @@
-### :computer: Studying Data Analysis & Engineering
-+ Data Analysis
-	+ Feature Engineering
-	+ Data Visualization
-	+ Machine Learning
-	+ Statistics
+### :computer: Studying Data Engineering
 + Data Engineering
-	+ ETL
+	+ Hadoop
+	+ Spark
 
 ### :pencil: Majored in
 + Turkish
