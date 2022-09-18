@@ -1,7 +1,4 @@
 ### :computer: Studying Data Engineering
-+ Data Engineering
-	+ Hadoop
-	+ Spark
 
 ### :pencil: Majored in
 + Turkish
@@ -28,6 +25,7 @@
   
 - Database
   - <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
+  - <img src="https://img.shields.io/badge/MongoDB-4479A1?style=flat&logo=mongo&logoColor=white"/></a>
   
     
 
