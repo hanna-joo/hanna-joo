@@ -24,7 +24,3 @@
   
 - Database
   - <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a><img src="https://img.shields.io/badge/MongoDB-4479A1?style=flat&logo=mongodb&logoColor=white"/></a>
-  
-    
-
-![hanna-joo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanna-joo&show_icons=true&theme=buefy)
