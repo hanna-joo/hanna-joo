@@ -1,4 +1,4 @@
-### :computer: Data Engineer Projects
+### :computer: Data Engineering Projects
 - [AI 모델을 적용한 친환경 서비스 Ciao Label La](https://github.com/hanna-joo/PJT_Ciaolabella1)
 - [확장성을 고려한 Ciao Label La 버전 2](https://github.com/hanna-joo/PJT_Ciaolabella2)
 - [따릉이 수요 예측 모델 개발을 위한 데이터 파이프라인 구축](https://github.com/hanna-joo/PJT_SeoulBike)
