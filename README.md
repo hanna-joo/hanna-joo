@@ -1,6 +1,6 @@
 ### :computer: Data Engineering Projects
-- [AI 모델을 적용한 친환경 서비스 Ciao Label La ver.1](https://github.com/hanna-joo/PJT_Ciaolabella1)
-- [기존 서비스에서 확장성을 고려하여 재구축한 Ciao Label La ver.2](https://github.com/hanna-joo/PJT_Ciaolabella2)
+- [AI 모델을 적용한 친환경 서비스 Ciao label la ver.1](https://github.com/hanna-joo/PJT_Ciaolabella1)
+- [기존 서비스에서 확장성을 고려하여 재구축한 Ciao label la ver.2](https://github.com/hanna-joo/PJT_Ciaolabella2)
 - [따릉이 수요 예측 모델 개발을 위한 데이터 파이프라인 구축](https://github.com/hanna-joo/PJT_SeoulBike)
 - [서울시 공공도서관 신설 및 예산 활용 방안 제시를 위한 시각화 Dashboard 개발](https://github.com/hanna-joo/PJT_SeoulLibrary)
 
