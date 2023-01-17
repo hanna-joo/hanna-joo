@@ -21,7 +21,7 @@
   - <img src ="https://img.shields.io/badge/AWS-FF9900.svg?&style=flat&logo=awsec2&logoColor=white"/></a><img src ="https://img.shields.io/badge/Ubuntu-E95420?&style=flat&logo=ubuntu&logoColor=white"/></a>
 
 - Web Development
-  - <img src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white"/><img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/></a><img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6?&style=flat&logo=CSS3&logoColor=white"/></a><img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-1572B6?&style=flat&logo=javascript&logoColor=white"/></a>
+  - <img src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white"/><img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/></a><img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6?&style=flat&logo=CSS3&logoColor=white"/></a><img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat&logo=javascript&logoColor=white"/></a>
   
 
 
