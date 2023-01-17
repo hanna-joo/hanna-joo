@@ -33,6 +33,6 @@
 
 <br>
 
-## 🏫: Majored in
+## 🏫 Majored in
 + Turkish
 + Economics
