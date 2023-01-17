@@ -5,7 +5,7 @@
 - [서울시 공공도서관 신설 및 예산 활용 방안 제시를 위한 시각화 Dashboard 개발](https://github.com/hanna-joo/PJT_SeoulLibrary)
 
 ### :heart: Skills
-- **Programming Languages**
+- **Programming Language**
   - <img src="https://img.shields.io/badge/Python-3766AB.svg?style=flat&logo=Python&logoColor=white"/></a><img src="https://img.shields.io/badge/Pyspark-E25A1C.svg?style=flat&logo=apache-spark&logoColor=white"/></a>
   
 - **Database**
