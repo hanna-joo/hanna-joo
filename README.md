@@ -12,7 +12,7 @@
   - <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></a><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/></a>
 
 - **Big Data Platform**
-  - <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=white"/></a><img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/></a><img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white"/></a><img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white"/></a><img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white"/></a>
+  - <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black"/></a><img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/></a><img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white"/></a><img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white"/></a><img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=black"/></a>
 
 - **Data Visualization**
   - <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white"/></a><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/></a><img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/></a>
