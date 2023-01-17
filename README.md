@@ -6,7 +6,7 @@
 
 <br>
 
-## :heart: Hard Skills
+## :heart: Skills
 - **Programming Language**
   - <img src="https://img.shields.io/badge/Python-3766AB.svg?style=flat&logo=Python&logoColor=white"/></a><img src="https://img.shields.io/badge/Pyspark-E25A1C.svg?style=flat&logo=apache-spark&logoColor=white"/></a>
   
@@ -27,12 +27,12 @@
   
 <br>
 
-## 💪: Strengths
+## 💪 Strengths
 - **Good at Visualization**
 - **Domain of Machine Learning** 
 
 <br>
 
-## :pencil: Majored in
+## 🏫: Majored in
 + Turkish
 + Economics
