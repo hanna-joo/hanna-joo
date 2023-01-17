@@ -15,7 +15,7 @@
   - <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white"/></a><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/></a><img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/></a>
 
 - Big Data Platform
-  - <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=hadoop&logoColor=white"/></a><img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/></a><img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white"/></a><img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=kafka&logoColor=white"/></a><img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=airflow&logoColor=white"/></a>
+  - <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=white"/></a><img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/></a><img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white"/></a><img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white"/></a><img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white"/></a>
 
 - Environment
   - <img src ="https://img.shields.io/badge/AWS-FF9900.svg?&style=flat&logo=awsec2&logoColor=white"/></a><img src ="https://img.shields.io/badge/Ubuntu-E95420?&style=flat&logo=ubuntu&logoColor=white"/></a>
