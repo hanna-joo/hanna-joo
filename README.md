@@ -28,7 +28,7 @@
 <br>
 
 ## 💪 Strengths
-- **Good at Visualization**
+- **Data Visualization**
 - **Domain of Machine Learning** 
 
 <br>
