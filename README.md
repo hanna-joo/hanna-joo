@@ -6,6 +6,10 @@
 
 <br>
 
+## :pen: [Blog](https://hanalog.github.io/)
+
+<br>
+
 ## :heart: Skills
 - **Programming Language**
   - <img src="https://img.shields.io/badge/Python-3766AB.svg?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pyspark-E25A1C.svg?style=flat&logo=apache-spark&logoColor=white"/>
