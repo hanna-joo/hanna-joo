@@ -6,7 +6,7 @@
 
 
 ## :pen: Blog
-- **기술 블로그 [Hanalog](https://hanalog.github.io/) 바로 **
+- **기술 블로그 [Hanalog](https://hanalog.github.io/) 바로 가기**
 
 
 ## :heart: Skills
