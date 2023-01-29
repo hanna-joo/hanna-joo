@@ -4,9 +4,10 @@
 - [따릉이 수요 예측 모델 개발을 위한 데이터 파이프라인 구축](https://github.com/hanna-joo/PJT_SeoulBike)
 - [서울시 공공도서관 신설 및 예산 활용 방안 제시를 위한 시각화 Dashboard 개발](https://github.com/hanna-joo/PJT_SeoulLibrary)
 
-> [기술 블로그 Hanalog](https://hanalog.github.io/)
 
-<br>
+## ✏️: Blog
+- **기술 블로그 [Hanalog](https://hanalog.github.io/)**
+
 
 ## :heart: Skills
 - **Programming Language**
@@ -27,14 +28,7 @@
 - **Web Development**
   - <img src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white"/> <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6?&style=flat&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat&logo=javascript&logoColor=white"/>
   
-<br>
-
 ## 💪 Strengths
 - **Data Visualization**
 - **Domain of Machine Learning** 
-
-<br>
-
-## 🏫 Majored in
-+ Turkish
-+ Economics
+- **Turkish**
