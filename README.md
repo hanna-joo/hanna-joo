@@ -22,4 +22,4 @@
   
 ## 💪 Else
 - **Majored in Turkish & Economics**
-- **Interested in Streaming Data Pipeline**
+- **Interested in Cloud**
