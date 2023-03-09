@@ -9,7 +9,7 @@
 - **기술 블로그 [Hanalog](https://hanalog.github.io/) 바로 가기**
 
 ## :heart: Skills
-- **Programming Language**
+- **Language**
   - <img src="https://img.shields.io/badge/Python-3766AB.svg?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-E25A1C.svg?style=flat&logo=sql&logoColor=white"/> 
 - **Database**
   - <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
