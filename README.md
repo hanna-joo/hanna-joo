@@ -1,4 +1,4 @@
-## :computer: Data Engineering Projects
+## :computer: Data Projects
 - **[Ciao label la ver.1 : AI 모델을 적용한 친환경 서비스 차오라벨라 개발](https://github.com/hanna-joo/PJT_Ciaolabella1)**
 - **[Ciao label la ver.2 : 기존 서비스에서 확장성을 고려하여 재구축한 파이프라인](https://github.com/hanna-joo/PJT_Ciaolabella2)**
 - **[따릉이 수요 예측 모델 개발을 위한 데이터 파이프라인 구축](https://github.com/hanna-joo/PJT_SeoulBike)**
