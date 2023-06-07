@@ -10,7 +10,7 @@
 
 ## :heart: Skills
 - **Language**
-  - <img src="https://img.shields.io/badge/Python-3766AB.svg?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-E25A1C.svg?style=flat&logo=sql&logoColor=white"/> 
+  - <img src="https://img.shields.io/badge/Python-3766AB.svg?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-E25A1C?style=flat&logo=sql&logoColor=white"/> 
 - **Database**
   - <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
 - **Big Data Platform**
