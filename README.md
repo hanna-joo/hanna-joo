@@ -1,8 +1,12 @@
 ## :computer: Data Projects
-- **[Ciao label la ver.1 : AI 모델을 적용한 친환경 서비스 차오라벨라 개발](https://github.com/hanna-joo/PJT_Ciaolabella1)**
-- **[Ciao label la ver.2 : 기존 서비스에서 확장성을 고려하여 재구축한 파이프라인](https://github.com/hanna-joo/PJT_Ciaolabella2)**
-- **[따릉이 수요 예측 모델 개발을 위한 데이터 파이프라인 구축](https://github.com/hanna-joo/PJT_SeoulBike)**
-- **[서울시 공공도서관 신설 및 예산 활용 방안 제시를 위한 시각화 Dashboard 개발](https://github.com/hanna-joo/PJT_SeoulLibrary)**
+- **[AI 모델 기반 웹 서비스 구현  ver.1 : Ciao label la](https://github.com/hanna-joo/PJT_Ciaolabella1)**
+  - AI 모델을 적용한 친환경 서비스 차오라벨라 개발
+- **[AI 모델 기반 웹 서비스 구현  ver.2 : Ciao label la](https://github.com/hanna-joo/PJT_Ciaolabella2)**
+  - 기존 서비스에서 확장성을 고려하여 재구축한 파이프라인
+- **[ML 모델 학습 데이터셋 구축](https://github.com/hanna-joo/PJT_SeoulBike)**
+  - 따릉이 수요 예측 모델 개발을 위한 데이터 파이프라인 구축
+- **[공공 데이터 활용 분석 대시보드 개발](https://github.com/hanna-joo/PJT_SeoulLibrary)**
+  - 서울시 공공도서관 신설 및 예산 활용 방안 제시를 위한 시각화 대시보드 개발
 
 
 ## :pen: Blog
