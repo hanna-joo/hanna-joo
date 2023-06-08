@@ -1,8 +1,8 @@
 ## :computer: Data Projects
-- **[AI 모델 기반 웹 서비스 구현  ver.1 : Ciao label la](https://github.com/hanna-joo/PJT_Ciaolabella1)**
-  - AI 모델을 적용한 친환경 서비스 차오라벨라 개발
 - **[AI 모델 기반 웹 서비스 구현  ver.2 : Ciao label la](https://github.com/hanna-joo/PJT_Ciaolabella2)**
   - 기존 서비스에서 확장성을 고려하여 재구축한 파이프라인
+- **[AI 모델 기반 웹 서비스 구현  ver.1 : Ciao label la](https://github.com/hanna-joo/PJT_Ciaolabella1)**
+  - AI 모델을 적용한 친환경 서비스 차오라벨라 개발
 - **[ML 모델 학습 데이터셋 구축](https://github.com/hanna-joo/PJT_SeoulBike)**
   - 따릉이 수요 예측 모델 개발을 위한 데이터 파이프라인 구축
 - **[공공 데이터 활용 분석 대시보드 개발](https://github.com/hanna-joo/PJT_SeoulLibrary)**
