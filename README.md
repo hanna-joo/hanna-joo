@@ -1,4 +1,4 @@
-## :computer: Data Projects
+## :computer: Projects
 - **[AI 모델 기반 웹 서비스 구현  ver.2 : Ciao label la](https://github.com/hanna-joo/PJT_Ciaolabella2)**
   - 기존 서비스에서 가용성 고려 및 유저 로그 파이프라인 구축
 - **[AI 모델 기반 웹 서비스 구현  ver.1 : Ciao label la](https://github.com/hanna-joo/PJT_Ciaolabella1)**
@@ -7,7 +7,7 @@
   - 따릉이 수요 예측 모델 개발을 위한 데이터 파이프라인 구축
 - **[공공 데이터 활용 분석 대시보드 개발](https://github.com/hanna-joo/PJT_SeoulLibrary)**
   - 서울시 공공도서관 신설 및 예산 활용 방안 제시를 위한 시각화 분석
-
+- **[1일 1코딩 : 백준 티어 Silver 5](https://github.com/hanna-joo/Self_Coding)**
 
 ## :pen: Blog
 - **기술 블로그 [Hanalog](https://hanalog.github.io/) 바로 가기**
