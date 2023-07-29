@@ -28,4 +28,4 @@
 - **Majored in Turkish & Economics**
 - **Interested in Cloud**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanna-joo&hide=stars&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanna-joo&hide=stars,issues&show_icons=true)
