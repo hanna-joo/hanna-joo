@@ -3,7 +3,7 @@
 - **[AI 모델 기반 웹 서비스 구현  ver.1 : Ciao label la](https://github.com/hanna-joo/PJT_Ciaolabella1)**
 - **[ML 모델 학습 데이터셋 구축](https://github.com/hanna-joo/PJT_SeoulBike)**
 - **[공공 데이터 활용 분석 대시보드 개발](https://github.com/hanna-joo/PJT_SeoulLibrary)**
-- **[1일 1코딩 : 백준 티어 Silver 5](https://github.com/hanna-joo/Self_Coding)**
+- **[1일 1코딩 : 백준 티어 Silver 4](https://github.com/hanna-joo/Self_Coding)**
 
 ## :pen: Blog
 - **기술 블로그 [Hanalog](https://hanalog.github.io/) 바로 가기**
