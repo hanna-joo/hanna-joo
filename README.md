@@ -10,9 +10,6 @@
 
 
 ## :heart: Skills
-<div align="right">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod">
-</div>
 
 <div align="left">
 <img src="https://img.shields.io/badge/Python-3766AB.svg?style=flat&logo=Python&logoColor=white"/>
@@ -21,7 +18,10 @@
 <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/> <br>
 <img src ="https://img.shields.io/badge/AWS EC2-FF9900.svg?&style=flat&logo=amazon-ec2&logoColor=white"/> <img src ="https://img.shields.io/badge/Ubuntu-E95420?&style=flat&logo=ubuntu&logoColor=white"/> <img src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat&logo=javascript&logoColor=white"/>
 </div>
-  
+
+<div align="right">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod">
+</div>
 
 ## 💪 And
 - **Majored in Turkish & Economics**
