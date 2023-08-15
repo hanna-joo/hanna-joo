@@ -19,17 +19,17 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> 
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/> 
-    <br><br><br>
+    <br><br>
     <img src="https://img.shields.io/badge/Spark-E25A1C.svg?style=flat&logo=apache-spark&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black"/> 
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white"/> 
-    <br><br><br>
+    <br><br>
     <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/> 
-    <br><br><br>
+    <br><br>
     <img src ="https://img.shields.io/badge/AWS EC2-FF9900.svg?&style=flat&logo=amazon-ec2&logoColor=white"/> 
     <img src ="https://img.shields.io/badge/Ubuntu-E95420?&style=flat&logo=ubuntu&logoColor=white"/> 
     <img src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white"/> 
