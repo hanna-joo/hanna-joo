@@ -10,7 +10,7 @@
 
 
 ## :heart: Skills
-<div align="center">
+<div align="left">
   
 <img src="https://img.shields.io/badge/Python-3766AB.svg?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-E25A1C.svg?style=flat&logo=mysql&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/> <br>
@@ -19,7 +19,6 @@
 <img src ="https://img.shields.io/badge/AWS EC2-FF9900.svg?&style=flat&logo=amazon-ec2&logoColor=white"/> <img src ="https://img.shields.io/badge/Ubuntu-E95420?&style=flat&logo=ubuntu&logoColor=white"/> <img src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat&logo=javascript&logoColor=white"/>
   
 </div>
-
 
 <div align="right">
   
