@@ -10,10 +10,12 @@
 
 
 ## :heart: Skills
-<div align="center">
+<div align="right">
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hanna-joo&hide=stars&show_icons=true">
+</div>
 
+<div align="left">
 <img src="https://img.shields.io/badge/Python-3766AB.svg?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/Spark-E25A1C.svg?style=flat&logo=apache-spark&logoColor=white"/> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white"/> <br>
