@@ -1,8 +1,4 @@
 ## :computer: Projects
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod" align="right">
-
-
-
 - **[AI 모델 기반 웹 서비스 구현  ver.2 : Ciao label la](https://github.com/hanna-joo/PJT_Ciaolabella2)**
 - **[AI 모델 기반 웹 서비스 구현  ver.1 : Ciao label la](https://github.com/hanna-joo/PJT_Ciaolabella1)**
 - **[ML 모델 학습 데이터셋 구축](https://github.com/hanna-joo/PJT_SeoulBike)**
@@ -12,6 +8,7 @@
 
 
 ## :hammer_and_wrench: Skills
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod" align="right">
 
 
 <div align="center">
