@@ -9,7 +9,10 @@
 - **기술 블로그 [Hanalog](https://hanalog.github.io/) 바로 가기**
 
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod"/>
+
+
 ## :heart: Skills
+
 
 <div>
     <img src="https://img.shields.io/badge/Python-3766AB.svg?style=flat&logo=Python&logoColor=white"/>
