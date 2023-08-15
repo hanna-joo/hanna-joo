@@ -11,8 +11,6 @@
 
 ## :heart: Skills
 <div align="center">
-  
-<div align="left">
 <img src="https://img.shields.io/badge/Python-3766AB.svg?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/Spark-E25A1C.svg?style=flat&logo=apache-spark&logoColor=white"/> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white"/> <br>
@@ -23,17 +21,12 @@
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod)](https://solved.ac/codcod/">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hanna-joo&hide=stars&show_icons=true">
 
-</div>
-
-
-
-</div>
   
 ## 💪 And
 - **Majored in Turkish & Economics**
 - **Interested in Cloud**
 
-  
+<div align="center">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanna-joo%2Fhit-counter&count_bg=%23F1C50C&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%23F1C50C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                  
-
+</div>
 
