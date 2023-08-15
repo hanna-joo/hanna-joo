@@ -6,6 +6,9 @@
 - **[1일 1코딩 : 백준 티어 Silver 2](https://github.com/hanna-joo/Self_Coding)**
 
 
+## :pen: Blog
+- **기술 블로그 [Hanalog](https://hanalog.github.io/) 바로 가기**
+
 
 ## :hammer_and_wrench: Skills
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod" align="right">
@@ -29,10 +32,6 @@
     <img src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white"/> 
     <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat&logo=javascript&logoColor=white"/>
 </div>
-
-
-## :pen: Blog
-- **기술 블로그 [Hanalog](https://hanalog.github.io/) 바로 가기**
 
 
 ## :muscle: And
