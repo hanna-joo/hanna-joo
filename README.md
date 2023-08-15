@@ -8,6 +8,7 @@
 ## :pen: Blog
 - **기술 블로그 [Hanalog](https://hanalog.github.io/) 바로 가기**
 
+<div align="left">
 ## :heart: Skills
 - **Language**
   - <img src="https://img.shields.io/badge/Python-3766AB.svg?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-E25A1C.svg?style=flat&logo=mysql&logoColor=white"/> 
@@ -19,14 +20,18 @@
   - <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
 - **Etc**
   - <img src ="https://img.shields.io/badge/AWS EC2-FF9900.svg?&style=flat&logo=amazon-ec2&logoColor=white"/> <img src ="https://img.shields.io/badge/Ubuntu-E95420?&style=flat&logo=ubuntu&logoColor=white"/> <img src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat&logo=javascript&logoColor=white"/>
-  
-## 💪 And
-- **Majored in Turkish & Economics**
-- **Interested in Cloud**
+</div>
 
-<div align="center">
+<div align="right">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanna-joo&hide=stars&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod)](https://solved.ac/codcod/)
 
 </div>
+  
+## 💪 And
+- **Majored in Turkish & Economics**
+- **Interested in Cloud**
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanna-joo%2Fhit-counter&count_bg=%23F1C50C&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%23F1C50C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                  
+
+
