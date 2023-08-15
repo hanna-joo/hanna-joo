@@ -10,7 +10,7 @@
 - **기술 블로그 [Hanalog](https://hanalog.github.io/) 바로 가기**
 
 
-## :heart: Skills
+## :toolbox: Skills
 
 
 <div align="center">
@@ -33,6 +33,11 @@
 </div>
 
 
+## 💪: And
+- Majored in Turkish & Economics
+- Studying CS & Coding
+  
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod" align="center">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanna-joo%2Fhit-counter&count_bg=%23F1C50C&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%23F1C50C&title=hits&edge_flat=false" align="center">
+
 
