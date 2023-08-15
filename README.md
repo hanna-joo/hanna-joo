@@ -10,7 +10,7 @@
 - **기술 블로그 [Hanalog](https://hanalog.github.io/) 바로 가기**
 
 
-## :toolbox: Skills
+## :hammer_and_wrench: Skills
 
 
 <div align="center">
@@ -33,9 +33,11 @@
 </div>
 
 
-## 💪: And
+## :muscle: And
 - Majored in Turkish & Economics
 - Studying CS & Coding
+
+
 
   
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod" align="center">
