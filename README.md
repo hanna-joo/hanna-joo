@@ -19,7 +19,7 @@
         <img src ="https://img.shields.io/badge/AWS EC2-FF9900.svg?&style=flat&logo=amazon-ec2&logoColor=white"/> <img src ="https://img.shields.io/badge/Ubuntu-E95420?&style=flat&logo=ubuntu&logoColor=white"/> <img src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat&logo=javascript&logoColor=white"/>
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <img style="display:inline;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod">
     </div>
 </div>
 
