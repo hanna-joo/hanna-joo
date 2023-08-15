@@ -1,7 +1,4 @@
 ## :computer: Projects
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod">
-
-
 - **[AI 모델 기반 웹 서비스 구현  ver.2 : Ciao label la](https://github.com/hanna-joo/PJT_Ciaolabella2)**
 - **[AI 모델 기반 웹 서비스 구현  ver.1 : Ciao label la](https://github.com/hanna-joo/PJT_Ciaolabella1)**
 - **[ML 모델 학습 데이터셋 구축](https://github.com/hanna-joo/PJT_SeoulBike)**
@@ -40,4 +37,6 @@
 - **Majored in Turkish & Economics**
 - **Interested in Cloud**
 
-<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanna-joo%2Fhit-counter&count_bg=%23F1C50C&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%23F1C50C&title=hits&edge_flat=false">
+
+<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod">
+<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanna-joo%2Fhit-counter&count_bg=%23F1C50C&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%23F1C50C&title=hits&edge_flat=false">
