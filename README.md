@@ -10,7 +10,7 @@
 
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod"/>
 ## :heart: Skills
-<div align="left">
+<div>
     <img src="https://img.shields.io/badge/Python-3766AB.svg?style=flat&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> 
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> 
