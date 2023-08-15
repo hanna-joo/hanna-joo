@@ -33,10 +33,7 @@
 </div>
 
 
-## 💪 And
-- **Majored in Turkish & Economics**
-- **Interested in Cloud**
-
-
-<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod">
-<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanna-joo%2Fhit-counter&count_bg=%23F1C50C&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%23F1C50C&title=hits&edge_flat=false">
+<div align="center">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanna-joo%2Fhit-counter&count_bg=%23F1C50C&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%23F1C50C&title=hits&edge_flat=false">
+</div>
