@@ -10,9 +10,6 @@
 - **[1일 1코딩 : 백준 티어 Silver 2](https://github.com/hanna-joo/Self_Coding)**
 
 
-## :pen: Blog
-- **기술 블로그 [Hanalog](https://hanalog.github.io/) 바로 가기**
-
 
 ## :hammer_and_wrench: Skills
 
@@ -37,9 +34,13 @@
 </div>
 
 
+## :pen: Blog
+- **기술 블로그 [Hanalog](https://hanalog.github.io/) 바로 가기**
+
+
 ## :muscle: And
-- Majored in Turkish & Economics
-- Studying Computer Science
+- **Majored in Turkish & Economics**
+- **Studying Computer Science**
 
 
 
