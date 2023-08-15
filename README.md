@@ -6,7 +6,7 @@
 - **[1일 1코딩 : 백준 티어 Silver 2](https://github.com/hanna-joo/Self_Coding)**
 
 
-## :pen: Blog
+## :heart: Blog
 - **기술 블로그 [Hanalog](https://hanalog.github.io/) 바로 가기**
 
 
