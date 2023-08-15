@@ -1,5 +1,5 @@
 ## :computer: Projects
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod" align="center">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod" align="right">
 
 
 - **[AI 모델 기반 웹 서비스 구현  ver.2 : Ciao label la](https://github.com/hanna-joo/PJT_Ciaolabella2)**
