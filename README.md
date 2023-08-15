@@ -16,7 +16,6 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3766AB.svg?style=flat&logo=Python&logoColor=white"/>
-    <br><br><br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> 
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/> 
