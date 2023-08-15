@@ -31,6 +31,8 @@
 - **Interested in Cloud**
 
 <div align="center">
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanna-joo%2Fhit-counter&count_bg=%23F1C50C&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%23F1C50C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                  
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanna-joo%2Fhit-counter&count_bg=%23F1C50C&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%23F1C50C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)     
+
 </div>
 
