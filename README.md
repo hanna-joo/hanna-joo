@@ -10,7 +10,7 @@
 - **기술 블로그 [Hanalog](https://hanalog.github.io/) 바로 가기**
 
 
-## :star: Skills
+## :heart: Skills
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod" align="right">
 
 
