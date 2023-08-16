@@ -11,7 +11,7 @@
 
 
 ## :heart: Skills
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod" align="right" link="https://solved.ac/codcod">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codcod" align="right" alt="https://solved.ac/codcod">
 
 
 <div align="center">
