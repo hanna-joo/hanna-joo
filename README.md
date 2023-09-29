@@ -4,6 +4,7 @@
 - **[ML 모델 학습 데이터셋 구축](https://github.com/hanna-joo/PJT_SeoulBike)**
 - **[공공 데이터 활용 분석 대시보드 개발](https://github.com/hanna-joo/PJT_SeoulLibrary)**
 - **[1일 1코딩 : 백준 티어 Gold 5](https://github.com/hanna-joo/Self_Coding)**
+- **[Airflow 스터디 운영 중](https://github.com/hanna-joo/PJT_RealSpot)**
 
 
 ## :pen: Blog
